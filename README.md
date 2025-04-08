@@ -6,7 +6,7 @@ A responsive and modern weather dashboard built with React.js and Tailwind CSS. 
 
 ## 🚀 Live Demo
 
-🔗 [View Live Application](https://your-deployed-url.vercel.app)
+🔗 [View Live Application](https://zynetic-weather-app-abhinav.vercel.app/)
 
 ---
 
@@ -25,6 +25,6 @@ A responsive and modern weather dashboard built with React.js and Tailwind CSS. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-dashboard.git
-cd weather-dashboard
+git clone https://github.com/abhinav-ak04/weather-app.git
+cd weather-app
 ```
